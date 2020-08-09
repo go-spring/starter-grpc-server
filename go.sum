@@ -79,6 +79,8 @@ github.com/go-spring/spring-utils v0.0.0-20200809010418-ad9c325fc2db h1:agxZmTXJ
 github.com/go-spring/spring-utils v0.0.0-20200809010418-ad9c325fc2db/go.mod h1:nt7zbJs5DiOCoi548jzBC06reyS0apM6YchDY0eMbjM=
 github.com/go-spring/spring-web v0.0.0-20200809012928-e89b3ea05c5c h1:UQAxfAWf54nJYn1KrFedTsjk6VKenURWlo0l2fsh5SI=
 github.com/go-spring/spring-web v0.0.0-20200809012928-e89b3ea05c5c/go.mod h1:QzpVp98W2BtcmgmdG1MZQhfW0GY2koSmfJ4G+IrAdbY=
+github.com/go-spring/starter-grpc v0.0.0-20200809141652-200cf148a867 h1:aglF1g8xCnoys6BUAlR38aeFU/d76MeT05nUXiJnpAE=
+github.com/go-spring/starter-grpc v0.0.0-20200809141652-200cf148a867/go.mod h1:od7f1lf/xFUN6YznCB+6LTH54Lau0g4WGJSUPvZ1o7I=
 github.com/go-stack/stack v1.8.0/go.mod h1:v0f6uXyyMGvRgIKkXu+yp6POWl0qKG85gN/melR3HDY=
 github.com/gogo/protobuf v1.1.1/go.mod h1:r8qH/GZQm5c6nD/R0oafs1akxWv10x8SbQlK7atdtwQ=
 github.com/gogo/protobuf v1.2.1/go.mod h1:hp+jE20tsWTFYpLwKvXlhS1hjn+gTNwPg2I6zVXpSg4=
